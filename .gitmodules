@@ -1,0 +1,66 @@
+[submodule "Libraries/sharp"]
+	path = Libraries/sharp
+	url = https://github.com/lovell/sharp
+[submodule "Libraries/libvips"]
+	path = Libraries/libvips
+	url = https://github.com/libvips/libvips
+[submodule "Hardware/Cameras/thermal-camera"]
+	path = Hardware/Cameras/thermal-camera
+	url = https://github.com/themainframe/thermal-camera
+[submodule "Examples/Streaming/picam"]
+	path = Examples/Streaming/picam
+	url = https://github.com/iizukanao/picam
+[submodule "Hardware/Cameras/v4l2-framebuffer"]
+	path = Hardware/Cameras/v4l2-framebuffer
+	url = https://github.com/lincolnhard/v4l2-framebuffer
+[submodule "Examples/Streaming/RPiCameraViewer"]
+	path = Examples/Streaming/RPiCameraViewer
+	url = https://github.com/ShawnBaker/RPiCameraViewer
+[submodule "Examples/OpenCV/JetsonVision"]
+	path = Examples/OpenCV/JetsonVision
+	url = https://github.com/Paradox2102/JetsonVision
+[submodule "Libraries/SDL-Lightweight-Image-Processing-Library"]
+	path = Libraries/SDL-Lightweight-Image-Processing-Library
+	url = https://github.com/dfalkcreative/SDL-Lightweight-Image-Processing-Library
+[submodule "Examples/Streaming/kurento-rtsp2webrtc"]
+	path = Examples/Streaming/kurento-rtsp2webrtc
+	url = https://github.com/lulop-k/kurento-rtsp2webrtc
+[submodule "Hardware/GPUs/sfm"]
+	path = Hardware/GPUs/sfm
+	url = https://github.com/bzobl/sfm
+[submodule "Hardware/Cameras/Pi-Vision"]
+	path = Hardware/Cameras/Pi-Vision
+	url = https://github.com/local-vision/Pi-Vision
+[submodule "Hardware/Cameras/Linux-tiscamera-Programming-Samples"]
+	path = Hardware/Cameras/Linux-tiscamera-Programming-Samples
+	url = https://github.com/TheImagingSource/Linux-tiscamera-Programming-Samples
+[submodule "Hardware/Cameras/PiCameraApp"]
+	path = Hardware/Cameras/PiCameraApp
+	url = https://github.com/Billwilliams1952/PiCameraApp
+[submodule "Libraries/medpy"]
+	path = Libraries/medpy
+	url = https://github.com/loli/medpy
+[submodule "Hardware/Cameras/tiscamera"]
+	path = Hardware/Cameras/tiscamera
+	url = https://github.com/TheImagingSource/tiscamera
+[submodule "Libraries/vpp"]
+	path = Libraries/vpp
+	url = https://github.com/matt-42/vpp
+[submodule "Examples/Streaming/pistreaming"]
+	path = Examples/Streaming/pistreaming
+	url = https://github.com/waveform80/pistreaming
+[submodule "Books/Deep-Learning-for-Computer-Vision"]
+	path = Books/Deep-Learning-for-Computer-Vision
+	url = https://github.com/PacktPublishing/Deep-Learning-for-Computer-Vision
+[submodule "Hardware/GPUs/jetsonjs"]
+	path = Hardware/GPUs/jetsonjs
+	url = https://github.com/jeeliz/jetsonjs
+[submodule "Hardware/Cameras/jeelizExposureController"]
+	path = Hardware/Cameras/jeelizExposureController
+	url = https://github.com/jeeliz/jeelizExposureController
+[submodule "Libraries/ImageAI"]
+	path = Libraries/ImageAI
+	url = https://github.com/OlafenwaMoses/ImageAI
+[submodule "Examples/Streaming/TCP_Vision"]
+	path = Examples/Streaming/TCP_Vision
+	url = https://github.com/zcsd/TCP_Vision
