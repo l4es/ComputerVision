@@ -64,3 +64,6 @@
 [submodule "Examples/Streaming/TCP_Vision"]
 	path = Examples/Streaming/TCP_Vision
 	url = https://github.com/zcsd/TCP_Vision
+[submodule "Examples/SLAM/DynSLAM"]
+	path = Examples/SLAM/DynSLAM
+	url = https://github.com/AndreiBarsan/DynSLAM
