@@ -67,3 +67,27 @@
 [submodule "Examples/SLAM/DynSLAM"]
 	path = Examples/SLAM/DynSLAM
 	url = https://github.com/AndreiBarsan/DynSLAM
+[submodule "Projects/Jevois/samplepythonmodule"]
+	path = Projects/Jevois/samplepythonmodule
+	url = https://github.com/jevois/samplepythonmodule
+[submodule "Projects/Jevois/jevoisextra"]
+	path = Projects/Jevois/jevoisextra
+	url = https://github.com/jevois/jevoisextra
+[submodule "Projects/Jevois/jevois"]
+	path = Projects/Jevois/jevois
+	url = https://github.com/jevois/jevois
+[submodule "Projects/Jevois/jevois-sdk"]
+	path = Projects/Jevois/jevois-sdk
+	url = https://github.com/jevois/jevois-sdk
+[submodule "Projects/Jevois/jevoisbase"]
+	path = Projects/Jevois/jevoisbase
+	url = https://github.com/jevois/jevoisbase
+[submodule "Projects/Jevois/jevois-tutorials"]
+	path = Projects/Jevois/jevois-tutorials
+	url = https://github.com/jevois/jevois-tutorials
+[submodule "Projects/Jevois/jevois-inventor"]
+	path = Projects/Jevois/jevois-inventor
+	url = https://github.com/jevois/jevois-inventor
+[submodule "Projects/Jevois/samplemodule"]
+	path = Projects/Jevois/samplemodule
+	url = https://github.com/jevois/samplemodule
