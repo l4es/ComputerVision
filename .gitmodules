@@ -115,3 +115,27 @@
 [submodule "Hardware/Cameras/OpenMV/openmv-doc"]
 	path = Hardware/Cameras/OpenMV/openmv-doc
 	url = https://github.com/openmv/openmv-doc
+[submodule "Hardware/Cameras/Stereolabs/zed-examples"]
+	path = Hardware/Cameras/Stereolabs/zed-examples
+	url = https://github.com/stereolabs/zed-examples
+[submodule "Hardware/Cameras/Stereolabs/zed-python-api"]
+	path = Hardware/Cameras/Stereolabs/zed-python-api
+	url = https://github.com/stereolabs/zed-python-api
+[submodule "Hardware/Cameras/Stereolabs/zed-yolo"]
+	path = Hardware/Cameras/Stereolabs/zed-yolo
+	url = https://github.com/stereolabs/zed-yolo
+[submodule "Hardware/Cameras/Stereolabs/zed-tensorflow"]
+	path = Hardware/Cameras/Stereolabs/zed-tensorflow
+	url = https://github.com/stereolabs/zed-tensorflow
+[submodule "Hardware/Cameras/Stereolabs/zed-docker"]
+	path = Hardware/Cameras/Stereolabs/zed-docker
+	url = https://github.com/stereolabs/zed-docker
+[submodule "Hardware/Cameras/Stereolabs/zed-opencv"]
+	path = Hardware/Cameras/Stereolabs/zed-opencv
+	url = https://github.com/stereolabs/zed-opencv
+[submodule "Hardware/Cameras/Stereolabs/zed-multi-camera"]
+	path = Hardware/Cameras/Stereolabs/zed-multi-camera
+	url = https://github.com/stereolabs/zed-multi-camera
+[submodule "Hardware/Cameras/Stereolabs/zed-opengl"]
+	path = Hardware/Cameras/Stereolabs/zed-opengl
+	url = https://github.com/stereolabs/zed-opengl
