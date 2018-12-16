@@ -139,3 +139,6 @@
 [submodule "Hardware/Cameras/Stereolabs/zed-opengl"]
 	path = Hardware/Cameras/Stereolabs/zed-opengl
 	url = https://github.com/stereolabs/zed-opengl
+[submodule "Resources/event-based_vision_resources"]
+	path = Resources/event-based_vision_resources
+	url = https://github.com/uzh-rpg/event-based_vision_resources
