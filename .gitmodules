@@ -97,3 +97,21 @@
 [submodule "Hardware/Cameras/Charmedlabs/pixy"]
 	path = Hardware/Cameras/Charmedlabs/pixy
 	url = https://github.com/charmedlabs/pixy
+[submodule "Hardware/Cameras/OpenMV/openmv"]
+	path = Hardware/Cameras/OpenMV/openmv
+	url = https://github.com/openmv/openmv
+[submodule "Hardware/Cameras/OpenMV/openmv-projects"]
+	path = Hardware/Cameras/OpenMV/openmv-projects
+	url = https://github.com/openmv/openmv-projects
+[submodule "Hardware/Cameras/OpenMV/openmv-boards"]
+	path = Hardware/Cameras/OpenMV/openmv-boards
+	url = https://github.com/openmv/openmv-boards
+[submodule "Hardware/Cameras/OpenMV/openmv-media"]
+	path = Hardware/Cameras/OpenMV/openmv-media
+	url = https://github.com/openmv/openmv-media
+[submodule "Hardware/Cameras/OpenMV/openmv-ide"]
+	path = Hardware/Cameras/OpenMV/openmv-ide
+	url = https://github.com/openmv/openmv-ide
+[submodule "Hardware/Cameras/OpenMV/openmv-doc"]
+	path = Hardware/Cameras/OpenMV/openmv-doc
+	url = https://github.com/openmv/openmv-doc
