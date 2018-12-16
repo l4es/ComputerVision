@@ -142,3 +142,9 @@
 [submodule "Resources/event-based_vision_resources"]
 	path = Resources/event-based_vision_resources
 	url = https://github.com/uzh-rpg/event-based_vision_resources
+[submodule "Projects/SmartCam/smart-cam"]
+	path = Projects/SmartCam/smart-cam
+	url = https://github.com/smart-cam/smart-cam
+[submodule "Projects/SmartCam/smart-cam.github.io"]
+	path = Projects/SmartCam/smart-cam.github.io
+	url = https://github.com/smart-cam/smart-cam.github.io
