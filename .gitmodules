@@ -91,3 +91,9 @@
 [submodule "Projects/Jevois/samplemodule"]
 	path = Projects/Jevois/samplemodule
 	url = https://github.com/jevois/samplemodule
+[submodule "Hardware/Cameras/Charmedlabs/pixy2"]
+	path = Hardware/Cameras/Charmedlabs/pixy2
+	url = https://github.com/charmedlabs/pixy2
+[submodule "Hardware/Cameras/Charmedlabs/pixy"]
+	path = Hardware/Cameras/Charmedlabs/pixy
+	url = https://github.com/charmedlabs/pixy
