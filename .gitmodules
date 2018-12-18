@@ -229,3 +229,24 @@
 [submodule "Examples/OpenCV/learnopencv"]
 	path = Examples/OpenCV/learnopencv
 	url = https://github.com/spmallick/learnopencv
+[submodule "Hardware/Cameras/Xiaomi-Dafang/Xiaomi-Dafang-Hacks"]
+	path = Hardware/Cameras/Xiaomi-Dafang/Xiaomi-Dafang-Hacks
+	url = https://github.com/EliasKotlyar/Xiaomi-Dafang-Hacks
+[submodule "Hardware/Cameras/Xiaomi-Dafang/fang-hacks"]
+	path = Hardware/Cameras/Xiaomi-Dafang/fang-hacks
+	url = https://github.com/samtap/fang-hacks
+[submodule "Hardware/Cameras/Wyze/openipc-firmware"]
+	path = Hardware/Cameras/Wyze/openipc-firmware
+	url = https://github.com/openipcamera/openipc-firmware
+[submodule "Hardware/Cameras/Wyze/wyzecam-api"]
+	path = Hardware/Cameras/Wyze/wyzecam-api
+	url = https://github.com/nblavoie/wyzecam-api
+[submodule "Hardware/Cameras/stereo-calibration"]
+	path = Hardware/Cameras/stereo-calibration
+	url = https://github.com/sourishg/stereo-calibration
+[submodule "Hardware/Cameras/imx6-camera"]
+	path = Hardware/Cameras/imx6-camera
+	url = https://github.com/intopalo/imx6-camera
+[submodule "Hardware/Cameras/robot-camera-platform"]
+	path = Hardware/Cameras/robot-camera-platform
+	url = https://github.com/danionescu0/robot-camera-platform
