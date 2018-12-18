@@ -169,3 +169,60 @@
 [submodule "Labelling-Annotation/sloth"]
 	path = Labelling-Annotation/sloth
 	url = https://github.com/cvhciKIT/sloth
+[submodule "Examples/Streaming/v4l2rtspserver"]
+	path = Examples/Streaming/v4l2rtspserver
+	url = https://github.com/mpromonet/v4l2rtspserver
+[submodule "Examples/Streaming/webrtc-streamer"]
+	path = Examples/Streaming/webrtc-streamer
+	url = https://github.com/mpromonet/webrtc-streamer
+[submodule "Examples/Streaming/gst-rtsp-server"]
+	path = Examples/Streaming/gst-rtsp-server
+	url = https://github.com/GStreamer/gst-rtsp-server
+[submodule "Examples/Streaming/webrtc-streamer-html"]
+	path = Examples/Streaming/webrtc-streamer-html
+	url = https://github.com/mpromonet/webrtc-streamer-html
+[submodule "Examples/Streaming/rtsp-video-server"]
+	path = Examples/Streaming/rtsp-video-server
+	url = https://github.com/ramilsafnab1996/rtsp-video-server
+[submodule "Examples/Streaming/Qt-video-streaming"]
+	path = Examples/Streaming/Qt-video-streaming
+	url = https://github.com/ramilsafnab1996/Qt-video-streaming
+[submodule "Examples/Streaming/camera-stream-receiver"]
+	path = Examples/Streaming/camera-stream-receiver
+	url = https://github.com/litovel-minicup/camera-stream-receiver
+[submodule "Examples/Streaming/Video-Streaming-with-Flask"]
+	path = Examples/Streaming/Video-Streaming-with-Flask
+	url = https://github.com/Mjrovai/Video-Streaming-with-Flask
+[submodule "Examples/Streaming/tfObjWebrtc"]
+	path = Examples/Streaming/tfObjWebrtc
+	url = https://github.com/webrtcHacks/tfObjWebrtc
+[submodule "Examples/Streaming/ip-camera-server"]
+	path = Examples/Streaming/ip-camera-server
+	url = https://github.com/angus-ai/ip-camera-server
+[submodule "Examples/Streaming/websocket-kinect"]
+	path = Examples/Streaming/websocket-kinect
+	url = https://github.com/jawj/websocket-kinect
+[submodule "Examples/Streaming/JpegRtspCamera"]
+	path = Examples/Streaming/JpegRtspCamera
+	url = https://github.com/petergaal/JpegRtspCamera
+[submodule "Examples/Streaming/AvCapture"]
+	path = Examples/Streaming/AvCapture
+	url = https://github.com/jas0n1ee/AvCapture
+[submodule "Examples/Streaming/video_streaming_with_flask_example"]
+	path = Examples/Streaming/video_streaming_with_flask_example
+	url = https://github.com/log0/video_streaming_with_flask_example
+[submodule "Examples/Streaming/opencv-rtsp-motion-detection"]
+	path = Examples/Streaming/opencv-rtsp-motion-detection
+	url = https://github.com/markuscraig/opencv-rtsp-motion-detection
+[submodule "Examples/Streaming/RTSP_stream_server"]
+	path = Examples/Streaming/RTSP_stream_server
+	url = https://github.com/haoweilo/RTSP_stream_server
+[submodule "Examples/Streaming/RTSPLiveClient"]
+	path = Examples/Streaming/RTSPLiveClient
+	url = https://github.com/ramilsafnab1996/RTSPLiveClient
+[submodule "Examples/Streaming/FFmpegRTSPServer"]
+	path = Examples/Streaming/FFmpegRTSPServer
+	url = https://github.com/MESAI/FFmpegRTSPServer
+[submodule "Examples/Streaming/v4l2rtspclient"]
+	path = Examples/Streaming/v4l2rtspclient
+	url = https://github.com/mpromonet/v4l2rtspclient
