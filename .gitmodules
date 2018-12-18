@@ -226,3 +226,6 @@
 [submodule "Examples/Streaming/v4l2rtspclient"]
 	path = Examples/Streaming/v4l2rtspclient
 	url = https://github.com/mpromonet/v4l2rtspclient
+[submodule "Examples/OpenCV/learnopencv"]
+	path = Examples/OpenCV/learnopencv
+	url = https://github.com/spmallick/learnopencv
