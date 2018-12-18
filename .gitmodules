@@ -148,3 +148,12 @@
 [submodule "Projects/SmartCam/smart-cam.github.io"]
 	path = Projects/SmartCam/smart-cam.github.io
 	url = https://github.com/smart-cam/smart-cam.github.io
+[submodule "Books/Mastering-OpenCV-With-Practical-Computer-Vision-Projects"]
+	path = Books/Mastering-OpenCV-With-Practical-Computer-Vision-Projects
+	url = https://github.com/MasteringOpenCV/code
+[submodule "Books/Hands-On-GPU-Programming-with-Python-and-CUDA"]
+	path = Books/Hands-On-GPU-Programming-with-Python-and-CUDA
+	url = https://github.com/PacktPublishing/Hands-On-GPU-Programming-with-Python-and-CUDA
+[submodule "Books/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA"]
+	path = Books/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA
+	url = https://github.com/PacktPublishing/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA
