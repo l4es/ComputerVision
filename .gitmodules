@@ -157,3 +157,15 @@
 [submodule "Books/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA"]
 	path = Books/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA
 	url = https://github.com/PacktPublishing/Hands-On-GPU-Accelerated-Computer-Vision-with-OpenCV-and-CUDA
+[submodule "Labelling-Annotation/cvat"]
+	path = Labelling-Annotation/cvat
+	url = https://github.com/opencv/cvat
+[submodule "Labelling-Annotation/VoTT"]
+	path = Labelling-Annotation/VoTT
+	url = https://github.com/Microsoft/VoTT
+[submodule "Labelling-Annotation/BeaverDam"]
+	path = Labelling-Annotation/BeaverDam
+	url = https://github.com/antingshen/BeaverDam
+[submodule "Labelling-Annotation/sloth"]
+	path = Labelling-Annotation/sloth
+	url = https://github.com/cvhciKIT/sloth
