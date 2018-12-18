@@ -250,3 +250,33 @@
 [submodule "Hardware/Cameras/robot-camera-platform"]
 	path = Hardware/Cameras/robot-camera-platform
 	url = https://github.com/danionescu0/robot-camera-platform
+[submodule "Software/jsmpeg"]
+	path = Software/jsmpeg
+	url = https://github.com/phoboslab/jsmpeg
+[submodule "Software/camera-manager"]
+	path = Software/camera-manager
+	url = https://github.com/Dronecode/camera-manager
+[submodule "Software/qtv4l2"]
+	path = Software/qtv4l2
+	url = https://github.com/mpromonet/qtv4l2
+[submodule "Software/Media-Processing-App"]
+	path = Software/Media-Processing-App
+	url = https://github.com/Boatdude55/Media-Processing-App
+[submodule "Software/Img_proc_GUI"]
+	path = Software/Img_proc_GUI
+	url = https://github.com/viveksb007/Img_proc_GUI
+[submodule "Software/photo-editor"]
+	path = Software/photo-editor
+	url = https://github.com/fengyuanchen/photo-editor
+[submodule "Software/Image-Editor"]
+	path = Software/Image-Editor
+	url = https://github.com/riyasavla/Image-Editor
+[submodule "Software/imageProc"]
+	path = Software/imageProc
+	url = https://github.com/tahhan/imageProc
+[submodule "Software/PythonImageProcessing"]
+	path = Software/PythonImageProcessing
+	url = https://github.com/Jpoliachik/PythonImageProcessing
+[submodule "Software/tui.image-editor"]
+	path = Software/tui.image-editor
+	url = https://github.com/nhnent/tui.image-editor
